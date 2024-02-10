@@ -146,3 +146,56 @@
 2024-02-08 12:39:28,631 : INFO : Test_UserLogin : test_userLogin_002 : 58 : login pass 
 2024-02-08 12:39:28,631 : INFO : Test_UserLogin : test_userLogin_002 : 59 : taking sc of login pass 
 2024-02-08 12:39:28,735 : INFO : Test_UserLogin : test_userLogin_002 : 61 : click logout button 
+2024-02-10 19:56:51,158 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 31 : entering login details 
+2024-02-10 19:56:58,483 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 36 : login done 
+2024-02-10 19:56:59,485 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 41 : moving to add customer page 
+2024-02-10 19:57:07,536 : INFO : Test_UserLogin : test_login_URL_001 : 30 : login url pass 
+2024-02-10 19:57:07,536 : INFO : Test_UserLogin : test_login_URL_001 : 31 : taking screenshot of login pass 
+2024-02-10 19:57:14,963 : INFO : Test_UserLogin : test_userLogin_002 : 49 : enter username 
+2024-02-10 19:57:15,125 : INFO : Test_UserLogin : test_userLogin_002 : 51 : enter password 
+2024-02-10 19:57:15,245 : INFO : Test_UserLogin : test_userLogin_002 : 53 : click login button 
+2024-02-10 19:57:21,031 : INFO : Test_UserLogin : test_userLogin_002 : 58 : login pass 
+2024-02-10 19:57:21,031 : INFO : Test_UserLogin : test_userLogin_002 : 59 : taking sc of login pass 
+2024-02-10 19:57:21,137 : INFO : Test_UserLogin : test_userLogin_002 : 61 : click logout button 
+2024-02-10 19:58:13,680 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 31 : entering login details 
+2024-02-10 19:58:24,260 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 36 : login done 
+2024-02-10 19:58:25,261 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 41 : moving to add customer page 
+2024-02-10 19:58:32,885 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 45 : at add customer page 
+2024-02-10 19:58:35,886 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 49 : start filling the details 
+2024-02-10 19:58:40,180 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 64 : data filled 
+2024-02-10 19:58:42,234 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 66 : clicked save button 
+2024-02-10 19:58:47,247 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 71 : add new customer succesfull 
+2024-02-10 19:58:47,247 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 72 : taking screenshot of pass new customer 
+2024-02-10 19:58:55,179 : INFO : Test_UserLogin : test_login_URL_001 : 30 : login url pass 
+2024-02-10 19:58:55,179 : INFO : Test_UserLogin : test_login_URL_001 : 31 : taking screenshot of login pass 
+2024-02-10 19:59:02,890 : INFO : Test_UserLogin : test_userLogin_002 : 49 : enter username 
+2024-02-10 19:59:03,106 : INFO : Test_UserLogin : test_userLogin_002 : 51 : enter password 
+2024-02-10 19:59:03,255 : INFO : Test_UserLogin : test_userLogin_002 : 53 : click login button 
+2024-02-10 19:59:17,417 : INFO : Test_UserLogin : test_userLogin_002 : 58 : login pass 
+2024-02-10 19:59:17,419 : INFO : Test_UserLogin : test_userLogin_002 : 59 : taking sc of login pass 
+2024-02-10 19:59:17,604 : INFO : Test_UserLogin : test_userLogin_002 : 61 : click logout button 
+2024-02-10 20:03:09,856 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 31 : entering login details 
+2024-02-10 20:03:13,473 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 36 : login done 
+2024-02-10 20:03:14,474 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 41 : moving to add customer page 
+2024-02-10 20:03:20,158 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 45 : at add customer page 
+2024-02-10 20:03:23,159 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 49 : start filling the details 
+2024-02-10 20:03:33,689 : INFO : Test_UserLogin : test_login_URL_001 : 30 : login url pass 
+2024-02-10 20:03:33,689 : INFO : Test_UserLogin : test_login_URL_001 : 31 : taking screenshot of login pass 
+2024-02-10 20:03:42,112 : INFO : Test_UserLogin : test_userLogin_002 : 49 : enter username 
+2024-02-10 20:08:25,067 : INFO : Test_UserLogin : test_userLogin_002 : 49 : enter username 
+2024-02-10 20:08:25,321 : INFO : Test_UserLogin : test_userLogin_002 : 51 : enter password 
+2024-02-10 20:08:25,553 : INFO : Test_UserLogin : test_userLogin_002 : 53 : click login button 
+2024-02-10 20:08:28,334 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 31 : entering login details 
+2024-02-10 20:08:36,157 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 36 : login done 
+2024-02-10 20:08:37,158 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 41 : moving to add customer page 
+2024-02-10 20:08:52,251 : INFO : Test_UserLogin : test_userLogin_002 : 58 : login pass 
+2024-02-10 20:08:52,251 : INFO : Test_UserLogin : test_userLogin_002 : 59 : taking sc of login pass 
+2024-02-10 20:08:52,446 : INFO : Test_UserLogin : test_userLogin_002 : 61 : click logout button 
+2024-02-10 20:08:53,259 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 45 : at add customer page 
+2024-02-10 20:08:56,260 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 49 : start filling the details 
+2024-02-10 20:08:59,323 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 64 : data filled 
+2024-02-10 20:09:00,572 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 66 : clicked save button 
+2024-02-10 20:09:05,590 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 71 : add new customer succesfull 
+2024-02-10 20:09:05,590 : INFO : Test_AddCustomerClass : test_addCustomer_003 : 72 : taking screenshot of pass new customer 
+2024-02-10 20:09:15,442 : INFO : Test_UserLogin : test_login_URL_001 : 30 : login url pass 
+2024-02-10 20:09:15,442 : INFO : Test_UserLogin : test_login_URL_001 : 31 : taking screenshot of login pass 

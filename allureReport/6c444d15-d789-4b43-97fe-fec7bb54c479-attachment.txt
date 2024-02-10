@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_UserLogin:test_userLogin.py:30 login url pass
+[32mINFO    [0m Test_UserLogin:test_userLogin.py:31 taking screenshot of login pass

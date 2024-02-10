@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:31 entering login details
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:36 login done
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:41 moving to add customer page
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:45 at add customer page
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:49 start filling the details
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:64 data filled
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:66 clicked save button
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:71 add new customer succesfull
+[32mINFO    [0m Test_AddCustomerClass:test_addCustomer.py:72 taking screenshot of pass new customer

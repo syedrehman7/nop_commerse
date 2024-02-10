@@ -1,2 +1,0 @@
-INFO     Test_UserLogin:test_userLogin.py:30 login url pass
-INFO     Test_UserLogin:test_userLogin.py:31 taking screenshot of login pass

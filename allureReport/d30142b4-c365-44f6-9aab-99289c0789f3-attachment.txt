@@ -1,0 +1,4 @@
+verify login fail
+expected login - fail
+['pass']
+assert true

@@ -1,6 +1,0 @@
-INFO     Test_UserLogin:test_userLogin.py:49 enter username
-INFO     Test_UserLogin:test_userLogin.py:51 enter password
-INFO     Test_UserLogin:test_userLogin.py:53 click login button
-INFO     Test_UserLogin:test_userLogin.py:58 login pass
-INFO     Test_UserLogin:test_userLogin.py:59 taking sc of login pass
-INFO     Test_UserLogin:test_userLogin.py:61 click logout button

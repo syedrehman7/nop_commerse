@@ -45,6 +45,7 @@ def DataforLogin(request):
     return request.param
 
 
+# pytest -v -n=2 --html=htmlreports/myreportNew.html --alluredir="D:\E Drive Data\CREDENCE\9. YUSUF SIR - Automation Testing\0. PRACTICAL\PRACTICALS\NOP_Commerse\allureReport" --browser chrome  -p no:warnings
 
 
 
